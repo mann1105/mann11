@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Man Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 
 - 🌱 I’m currently learning **LLM, GenAI, MLops**
 
