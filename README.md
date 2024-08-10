@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Man Patel</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **LLM, GenAI, MLops**
+- 🌱 I’m currently exploring **LLM, GenAI, MLops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mann1105](https://github.com/mann1105)
 
